@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/user-attachments/assets/0d191cd0-57c4-4f32-9886-4b080a3b7b14)
 Power BI Inflation Analysis: Journeying Through Global Economic Terrain
 This Power BI project provides an in-depth analysis of inflation trends across various countries, leveraging interactive visualizations and data-driven insights. The dashboard helps users explore key economic indicators, compare inflation rates over time, and assess the impact of inflation on different sectors.
 
